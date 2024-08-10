@@ -13,7 +13,7 @@ GROQ_API_KEY = os.environ["GROQ_API_KEY"]
 
 
 llm_api = ChatGroq(
-    model_name="llama3-8b-8192",
+    model_name="Llama-3.1-8b-Instant",
     temperature=0.1
 )
 
@@ -31,8 +31,11 @@ chain_api = prompt_api | llm_api | output_parser
 
 
 # food input
-food = "Caffe latte" #! API
+foods = ["Sushi", "Pasta", "Instant Ramen", "Chinese spicy hot pot"] #! API
 
+res = []
+for food in foods:
+    
+    res.append(chain_api.invoke({"food": food}))
 
-response_api = chain_api.invoke({"food": food})
-print(response_api)
+print(res)

@@ -1,47 +1,44 @@
 1. Food Item Analysis:
 
-    - Name: Instant Ramen
+    - Name: Coke
     - Safety level: 4 (Foods to Limit)
-    - Nutritional Value: High in calories, carbohydrates, and sodium; low in essential vitamins and fiber
-    - Recommended Intake: Moderate consumption (1-2 servings per week)
-    - Trimester-specific Recommendations: 2nd trimester - Limit intake due to high sodium content; 3rd trimester - Avoid excessive consumption to minimize risk of high blood pressure
+    - Nutritional Value: 
+        - Calories: 139 per 12-ounce can
+        - Sugar: 9.3 tsp per 12-ounce can
+        - Caffeine: 34 mg per 12-ounce can
+    - Recommended Intake: Limit or avoid consumption during pregnancy
+    - Trimester-specific Recommendations: Avoid or limit consumption throughout pregnancy, especially during the first trimester when the fetus is most vulnerable to caffeine and sugar.
 
 2. Key nutrients and calories calculation
 
     | Nutrient      | Amount per 100g | % Daily Value* |
     |---------------|-----------------|----------------|
-    | Calories      | 470 kcal        | 23.5%          |
-    | Carbohydrates | 60g             | 20%            |
-    | Protein       | 10g             | 20%            |
-    | Fat           | 17g             | 26%            |
-    | Sodium        | 990-1400mg      | 41-58%          |
-    | Sugar         | 2g              | 4%             |
+    | Calories      | 46 kcal         | 2%             |
+    | Carbohydrates | 11.4 g          | 4%             |
+    | Protein       | 0 g             | 0%             |
+    | Fat           | 0 g             | 0%             |
+    | Sodium        | 39 mg           | 2%             |
+    | Sugar         | 11.4 g          | -              |
 
 3. Benefits for Pregnancy:
-
-    - Instant Ramen can be a convenient and occasional source of carbohydrates and calories during pregnancy.
+    - There are no specific benefits of consuming Coke during pregnancy.
 
 4. Potential Risks or Contraindications:
-
-    - Excessive consumption of Instant Ramen may lead to high sodium intake, potentially increasing the risk of high blood pressure and other complications during pregnancy.
+    - Excessive caffeine intake can lead to insomnia, increased heart rate and blood pressure, and other side effects in pregnant women.
 
 5. Preparation Tips:
-
-    - To make Instant Ramen safer for consumption during pregnancy, add fresh vegetables, lean proteins, and other nutrient-rich foods to enhance its nutritional value.
+    - Limit or avoid consumption of Coke during pregnancy, and opt for water or other low-calorie, nutrient-rich beverages instead.
 
 6. Alternative Options:
-
-    - Immi (100% plant-based, keto-friendly, and high in protein)
-    - ZENB Ramen noodles (made from 100% yellow peas, high in protein and fiber)
-    - Homemade ramen noodles made with whole wheat flour and vegetables
+    - Water
+    - Seltzer water with a squeeze of fresh fruit
+    - Infused water with fruits or herbs
 
 7. Additional Information:
-
-    - Pregnant women should be mindful of the high sodium content in Instant Ramen and balance their diet with nutrient-rich foods to minimize potential risks.
-    - It is essential to consult with a healthcare provider before making any significant changes to the diet during pregnancy.
+    - High sugar consumption during pregnancy has been linked to increased risk of gestational diabetes, pre-eclampsia, preterm labor, and obesity in babies.
+    - Caffeine can cross the placenta and reach the fetus, potentially affecting a baby's sleep patterns and causing irritability.
 
 8. Sources:
-
-    - American Pregnancy Association
+    - American College of Obstetricians and Gynecologists (ACOG)
     - Academy of Nutrition and Dietetics
-    - National Institute of Diabetes and Digestive and Kidney Diseases
+    - Centers for Disease Control and Prevention (CDC)

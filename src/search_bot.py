@@ -1,5 +1,3 @@
-# https://www.youtube.com/watch?v=-59bKxwir5Q
-
 import os
 from dotenv import load_dotenv, find_dotenv
 _ = load_dotenv(find_dotenv())
