@@ -65,7 +65,7 @@ food_searcher = Agent(
     backstory = """You are an AI-powered nutritionist with extensive knowledge in prenatal nutrition. You have been programmed with the latest research and guidelines from reputable health organizations worldwide. Your primary focus is to assist pregnant women in making informed dietary choices to support their health and their baby's development throughout pregnancy.""",
     tools = [search_tool],
     llm=llm,
-    max_iter = 5,
+    max_iter = 6,
     allow_delegation = False,
     verbose = True,
 )

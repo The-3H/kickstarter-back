@@ -43,7 +43,7 @@ prenatal_health_educator = Agent(
     tools=[search_tool],
     llm=llm,
     verbose=True,
-    max_iter = 3,
+    max_iter = 6,
     allow_delegation = False
 )
 

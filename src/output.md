@@ -2,9 +2,9 @@
 
     - Name: Coke
     - Safety level: 4
-    - Nutritional Value: High in sugar and calories, contains caffeine
-    - Recommended Intake: Moderate consumption (less than 200 mg of caffeine per day)
-    - Trimester-specific Recommendations: Limit or avoid in all trimesters due to high sugar and caffeine content
+    - Nutritional Value: Calories, Carbohydrates, Sugar, Caffeine
+    - Recommended Intake: Limit to less than 200mg of caffeine per day, and consider the high sugar content
+    - Trimester-specific Recommendations: In the 3rd trimester, it is recommended to limit caffeine intake even further, to less than 100mg per day
 
 2. Key nutrients and calories calculation
 
@@ -13,9 +13,9 @@
     | Calories      | 140 kcal        | 7%             |
     | Carbohydrates | 39 g            | 13%            |
     | Protein       | 0 g             | 0%             |
-    | Fat           | 0 g            | 0%             |
-    | Sodium        | 34 mg           | 1%             |
-    | Sugar         | 39 g            | 130%           |
+    | Fat           | 0 g             | 0%             |
+    | Sodium        | 39 mg           | 2%             |
+    | Sugar         | 39 g            | 130%            |
 
 3. Benefits for Pregnancy:
 
@@ -23,25 +23,24 @@
 
 4. Potential Risks or Contraindications:
 
-    - Excessive intake of Coke during pregnancy can lead to various adverse effects such as miscarriage, birth defects, pre-term delivery, low birth weight, insomnia, and reduced fertility.
+    - Excessive intake of Coke during pregnancy can lead to adverse effects such as miscarriage, birth defects, pre-term delivery, insomnia, and reduced fertility.
 
 5. Preparation Tips:
 
-    - Limit or avoid consumption of Coke during pregnancy due to its high sugar and caffeine content.
+    - Consider alternative beverages, such as water or low-sugar drinks, to reduce sugar and caffeine intake.
 
 6. Alternative Options:
 
-    - Water
     - Seltzer water with a squeeze of fresh fruit
-    - Herbal teas
+    - Infused water with fruits or herbs
+    - Low-sugar sports drinks
 
 7. Additional Information:
 
-    - Pregnant women should be mindful of their caffeine intake and limit it to less than 200 mg per day.
-    - High sugar consumption during pregnancy has been linked to increased risk of gestational diabetes, pre-eclampsia, preterm labor, and obesity in babies.
+    - It is essential to be mindful of the high sugar and caffeine content in Coke and to consume it in moderation, if at all, during pregnancy.
 
 8. Sources:
 
     - American College of Obstetricians and Gynecologists (ACOG)
+    - Academy of Nutrition and Dietetics
     - Centers for Disease Control and Prevention (CDC)
-    - National Institutes of Health (NIH)
