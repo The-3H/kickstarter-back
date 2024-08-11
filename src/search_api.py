@@ -3,17 +3,17 @@ import re
 import pandas as pd
 import io
 from typing import Union
-from fastapi import FastAPI
+from fastapi import APIRouter
 from pydantic import BaseModel
 
-app = FastAPI()
+router = APIRouter()
 
 class SearchInput(BaseModel):
     age: int
     pregnancy_week: int
     input: str
 
-@app.post("/search")
+@router.post("/")
 async def search(search_input: SearchInput):
     search_qa = SearchQA()
     input = {
@@ -94,6 +94,6 @@ async def search(search_input: SearchInput):
     }
 
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=58000)
+# if __name__ == "__main__":
+#     import uvicorn
+#     uvicorn.run(app, host="0.0.0.0", port=58000)

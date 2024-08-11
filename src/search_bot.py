@@ -121,7 +121,7 @@ search_food = Task(
         1. Food Item Analysis:
 
            - Name: [Food name]
-           - Safety level: [Safety level]
+           - Safety level: [Safety level number, ONLY PRINT THE NUMBER]
            - Nutritional Value: [List key nutrients]
            - Recommended Intake: [Amount per day/week]
            - Trimester-specific Recommendations: [1st/2nd/3rd trimester specifics]

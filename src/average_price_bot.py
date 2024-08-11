@@ -29,13 +29,10 @@ output_parser = StrOutputParser()
 
 chain_api = prompt_api | llm_api | output_parser
 
+class AvgPriceQA():
+    def __init__(self):
+        self.chain = chain_api
+    def get_result(self, food):
+        result = self.chain.invoke({"food": food})
+        return result
 
-# food input
-foods = ["Sushi", "Pasta", "Instant Ramen", "Chinese spicy hot pot"] #! API
-
-res = []
-for food in foods:
-    
-    res.append(chain_api.invoke({"food": food}))
-
-print(res)

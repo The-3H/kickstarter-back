@@ -3,17 +3,17 @@ import re
 import pandas as pd
 import io
 from typing import Union
-from fastapi import FastAPI
+from fastapi import APIRouter
 from pydantic import BaseModel
 
-app = FastAPI()
+router = APIRouter()
 
 class ChatInput(BaseModel):
     age: int
     pregnancy_week: int
     input: str
 
-@app.post("/chat")
+@router.post("/")
 async def chat(chat_input: ChatInput):
     chat_qa = ChatQA()
     input = {
@@ -31,6 +31,6 @@ async def chat(chat_input: ChatInput):
         "response": response.raw
     }
 
-if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=58000)
+# if __name__ == "__main__":
+#     import uvicorn
+#     uvicorn.run(app, host="0.0.0.0", port=58000)
